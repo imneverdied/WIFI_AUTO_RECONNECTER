@@ -6,5 +6,7 @@ WIFI自動重連
 
 使用方法 <br>
 第一次使用時請先用TXT編輯WIFI.bat內的"WIFI的名子"改成自己要連的WIFI <br>
-點擊WIFI.exe 完成
+點擊WIFI.exe 完成 <br>
+
+![image](https://imneverdied.github.io/WIFI_AUTO_RECONNECTER/source%20code/PIC1.png)
 
