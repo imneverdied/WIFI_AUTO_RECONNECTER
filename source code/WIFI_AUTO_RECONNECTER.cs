@@ -18,7 +18,7 @@ namespace AUTO_WIFI_CONNECTER
             WIFIcheck();
             Console.WriteLine(",5分鐘後再次檢查");
             //Thread.Sleep(600000);//10min
-            Thread.Sleep(300000);//1min
+            Thread.Sleep(300000);//5min
             loop_timer();
 
         }
