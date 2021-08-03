@@ -6,8 +6,14 @@ WIFI自動重連
 注意: WIFI.bat 內設定的WIFI名稱必須為已知WIFI(連上過的WIFI) <br>
 
 使用方法 <br>
-第一次使用時請先用TXT編輯WIFI.bat內的"WIFI的名子"改成自己要連的WIFI <br>
-點擊WIFI.exe 完成 <br>
+第一次使用時請先用TXT編輯WIFI.bat內的"WIFI的名子"改成自己要連的WIFI名子<br>
+點擊 WIFI.exe  <br>
+
+使用方法 Python.ver<br>
+第一次使用時請先用TXT編輯WIFI.bat內的"WIFI的名子"改成自己要連的WIFI名子<br>
+點擊 WIFI.py  <br>
+
+
 
 ![image](https://imneverdied.github.io/WIFI_AUTO_RECONNECTER/source%20code/PIC1.png)
 
