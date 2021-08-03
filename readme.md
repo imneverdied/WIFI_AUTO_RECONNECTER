@@ -11,7 +11,7 @@ WIFI自動重連
 
 使用方法 Python.ver<br>
 第一次使用時請先用TXT編輯WIFI.bat內的"WIFI的名子"改成自己要連的WIFI名子<br>
-點擊 WIFI.py  <br>
+點擊 WIFI_AUTO_RECONNECTER.py  <br>
 
 
 
